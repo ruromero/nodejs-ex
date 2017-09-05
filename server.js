@@ -107,6 +107,6 @@ console.log('Server running on http://%s:%s', ip, port);
 
 module.exports = app ;
 
-webshot('google.com', 'google.png', function(err) {
+webshot('www.redhat.com/en', 'redhat.png', function(err) {
   // screenshot now saved to google.png
 });
