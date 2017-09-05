@@ -13,7 +13,8 @@
     "morgan": "^1.7.0",
     "node-gyp": "^3.6.0",
     "object-assign": "4.1.0",
-    "sharp": "^0.17.3"
+    "sharp": "^0.17.3",
+    "webshot": "^0.18.0"
   },
   "engine": {
     "node": "*",
